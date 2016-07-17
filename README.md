@@ -189,7 +189,7 @@ Goes to [@liuxuan30](https://github.com/liuxuan30), [@petester42](https://github
 
 License
 =======
-Copyright 2016 Daniel Cohen Gindi & Philipp Jahoda
+Copyright 2016
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
