@@ -1,8 +1,8 @@
 **Version 2.2.5**, synced to [MPAndroidChart #1b9b3da](https://github.com/PhilJay/MPAndroidChart/commit/1b9b3da)
 
-![alt tag](https://raw.github.com/danielgindi/Charts/master/Assets/feature_graphic.png)
-  ![Supported Platforms](https://img.shields.io/cocoapods/p/Charts.svg) [![Releases](https://img.shields.io/github/release/danielgindi/Charts.svg)](https://github.com/danielgindi/Charts/releases) [![Latest pod release](https://img.shields.io/cocoapods/v/Charts.svg)](http://cocoapods.org/pods/charts) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Build Status](https://travis-ci.org/danielgindi/Charts.svg?branch=master)](https://travis-ci.org/danielgindi/Charts) 
-[![Join the chat at https://gitter.im/danielgindi/Charts](https://badges.gitter.im/danielgindi/Charts.svg)](https://gitter.im/danielgindi/Charts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![alt tag](https://raw.github.com/lukamarin/Charts-swift/master/Assets/feature_graphic.png)
+  ![Supported Platforms](https://img.shields.io/cocoapods/p/Charts.svg) [![Releases](https://img.shields.io/github/release/lukamarin/Charts-swift.svg)](https://github.com/lukamarin/Charts-swift/releases) [![Latest pod release](https://img.shields.io/cocoapods/v/Charts.svg)](http://cocoapods.org/pods/charts) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage) [![Build Status](https://travis-ci.org/lukamarin/Charts-swift.svg?branch=master)](https://travis-ci.org/lukamarin/Charts-swift) 
+[![Join the chat at https://gitter.im/lukamarin/Charts-swift](https://badges.gitter.im/lukamarin/Charts-swift.svg)](https://gitter.im/lukamarin/Charts-swift?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Just a heads up: We've renamed from *ios-charts* to **Charts**.
 
@@ -70,8 +70,8 @@ pod 'Charts/Realm'
 Charts now include Carthage prebuilt binaries.
 
 ```carthage
-github "danielgindi/Charts" == 2.2.5
-github "danielgindi/Charts" ~> 2.2.5
+github "lukamarin/Charts-swift" == 2.2.5
+github "lukamarin/Charts-swift" ~> 2.2.5
 ```
 
 In order to build the binaries for a new release, use `carthage build --no-skip-current && carthage archive Charts && carthage archive ChartsRealm`.
@@ -94,11 +94,11 @@ Questions & Issues
 
 If you are having questions or problems, you should:
 
- - Make sure you are using the latest version of the library. Check the [**release-section**](https://github.com/danielgindi/Charts/releases).
+ - Make sure you are using the latest version of the library. Check the [**release-section**](https://github.com/lukamarin/Charts-swift/releases).
  - Study the Android version's [**Documentation-Wiki**](https://github.com/PhilJay/MPAndroidChart/wiki)
  - Study the (Still incomplete [![Doc-Percent](https://img.shields.io/cocoapods/metrics/doc-percent/Charts.svg)](http://cocoadocs.org/docsets/Charts/)) [**Pod-Documentation**](http://cocoadocs.org/docsets/Charts/)
  - Search or open questions on [**stackoverflow**](http://stackoverflow.com/questions/tagged/ios-charts) with the `ios-charts` tag
- - Search [**known issues**](https://github.com/danielgindi/Charts/issues) for your problem (open and closed)
+ - Search [**known issues**](https://github.com/lukamarin/Charts-swift/issues) for your problem (open and closed)
  - Create new issues (please :fire: **search known issues before** :fire:, do not create duplicate issues)
 
 
@@ -179,7 +179,7 @@ Documentation
 Currently there's no need for documentation for the iOS/tvOS/OSX version, as the API is **95% the same** as on Android.  
 You can read the official [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) documentation here: [**Wiki**](https://github.com/PhilJay/MPAndroidChart/wiki)
 
-Or you can see the [**ChartsDemo**](https://github.com/danielgindi/Charts/tree/master/ChartsDemo) project and learn the how-tos from it.
+Or you can see the [**ChartsDemo**](https://github.com/lukamarin/Charts-swift/tree/master/ChartsDemo) project and learn the how-tos from it.
 
 
 Special Thanks
